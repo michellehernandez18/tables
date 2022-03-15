@@ -1,0 +1,30 @@
+body{
+    color: rgb(112, 140, 151);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+     border: 3px solid rgb(128, 193, 204);
+    overflow:auto;
+    padding: 15px;
+}
+
+
+h1{
+    color: rgb(8, 143, 143);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: dotted;
+    background-color: rgb(26, 143, 153);
+    border: 2px solid rgb(89, 174, 181);
+    border-radius: 20px;
+    color: rgb(246, 246, 246);
+    padding: 7px 13px;
+    margin-left: 28px;
+}
